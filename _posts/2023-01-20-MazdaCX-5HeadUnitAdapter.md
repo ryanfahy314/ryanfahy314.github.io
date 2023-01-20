@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some articles are just so long they deserve a really long title to see if things will break well
+title: Gen 1 Mazda CX-5 Head Unit Adapter
 categories: Miscellaneous
 ---
 
